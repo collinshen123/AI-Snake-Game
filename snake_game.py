@@ -103,6 +103,7 @@ class SnakeGameAI:
         return reward, game_over, self.score
     
     def _is_collision(self, pt=None):
+        # sourcery skip: assign-if-exp, boolean-if-exp-identity, reintroduce-else, remove-unnecessary-cast
         if pt is None:
             pt = self.head
         # hits boundary
@@ -114,7 +115,7 @@ class SnakeGameAI:
         
         return False
         
-    def _update_ui(self):
+    def _update_ui(self):  # sourcery skip: use-fstring-for-concatenation
         self.display.fill(BLACK)
         
         for pt in self.snake:
