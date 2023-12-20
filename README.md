@@ -7,4 +7,4 @@ An agent is created to automate the game. Using a reinforcmement learning ML mod
 The AI's learning progress is plotted below:  
 
 
-![SnakeAIPlot](https://github.com/collinshen123/AI-Snake-Game/assets/58667267/e551d175-07ca-443c-8c59-33daec8743e0)
+<img width="1266" alt="Screenshot 2023-12-19 at 10 59 19 AM" src="https://github.com/collinshen123/AI-Snake-Game/assets/58667267/50b2af58-4a26-4b02-bdea-75dc41730f6e">
