@@ -1,4 +1,4 @@
-# AI-Snake-Game: ML Rienforcement Learning project with Pytorch and Pygame
+# AI Snake Game: ML Rienforcement Learning project with Pytorch and Pygame
 
 This is a python reinforcement learning project that uses Pytorch and Pygame to train an AI to play the classic snake game. The AI is trained using a Deep Q Network (DQN) and is able to achieve a score of 80+ after 100 rounds of training.
 
